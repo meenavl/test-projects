@@ -1,2 +1,2 @@
 # test-projects
-to test submodules
+to test submodules projects
